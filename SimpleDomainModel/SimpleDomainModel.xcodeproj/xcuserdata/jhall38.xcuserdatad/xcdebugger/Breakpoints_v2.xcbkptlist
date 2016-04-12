@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModel/main.swift"
+            timestampString = "482148464.077186"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/MoneyTests.swift"
+            timestampString = "482149284.391482"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "testUSDtoGBP()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.MoneyTests.testUSDtoGBP (SimpleDomainModelTests.MoneyTests)() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/MoneyTests.swift"
+                  timestampString = "482149825.968575"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "473">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.MoneyTests.(testUSDtoGBP (SimpleDomainModelTests.MoneyTests) -&gt; () -&gt; ()).(implicit closure #2)"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/MoneyTests.swift"
+                  timestampString = "482149825.968779"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/MoneyTests.swift"
+            timestampString = "482149527.361362"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "testUSDtoGBP()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/MoneyTests.swift"
+            timestampString = "482149535.13223"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "testUSDtoGBP()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/MoneyTests.swift"
+            timestampString = "482149646.415719"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "testUSDtoGBP()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.MoneyTests.testUSDtoGBP (SimpleDomainModelTests.MoneyTests)() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/MoneyTests.swift"
+                  timestampString = "482149825.969112"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "177">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.MoneyTests.(testUSDtoGBP (SimpleDomainModelTests.MoneyTests) -&gt; () -&gt; ()).(implicit closure #1)"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/MoneyTests.swift"
+                  timestampString = "482149825.969456"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/MoneyTests.swift"
+            timestampString = "482149999.340908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "testAddUSDtoGBP()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.MoneyTests.testAddUSDtoGBP (SimpleDomainModelTests.MoneyTests)() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/MoneyTests.swift"
+                  timestampString = "482150505.525431"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "568">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.MoneyTests.(testAddUSDtoGBP (SimpleDomainModelTests.MoneyTests) -&gt; () -&gt; ()).(implicit closure #2)"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/MoneyTests.swift"
+                  timestampString = "482150505.525641"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/JobTests.swift"
+            timestampString = "482150539.599377"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "testSalariedRaise()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/JobTests.swift"
+            timestampString = "482150540.779536"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "testSalariedRaise()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.JobTests.testSalariedRaise (SimpleDomainModelTests.JobTests)() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/JobTests.swift"
+                  timestampString = "482150787.183826"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "289">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.JobTests.(testSalariedRaise (SimpleDomainModelTests.JobTests) -&gt; () -&gt; ()).(implicit closure #2)"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/JobTests.swift"
+                  timestampString = "482150787.184087"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModel/main.swift"
+            timestampString = "482152528.910556"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "Person"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModel/main.swift"
+            timestampString = "482152528.910556"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "Person"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/PersonTests.swift"
+            timestampString = "482152670.700277"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "testPerson()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.PersonTests.testPerson (SimpleDomainModelTests.PersonTests)() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/PersonTests.swift"
+                  timestampString = "482152772.684396"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.PersonTests.(testPerson (SimpleDomainModelTests.PersonTests) -&gt; () -&gt; ()).(implicit closure #1)"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/PersonTests.swift"
+                  timestampString = "482152772.684633"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/PersonTests.swift"
+            timestampString = "482152864.086229"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PersonTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/PersonTests.swift"
+            timestampString = "482152865.310379"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "testPerson()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/PersonTests.swift"
+            timestampString = "482153210.555782"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "FamilyTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.FamilyTests.__deallocating_deinit"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/PersonTests.swift"
+                  timestampString = "482153210.558172"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.FamilyTests.init (SimpleDomainModelTests.FamilyTests.Type)(invocation : Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; SimpleDomainModelTests.FamilyTests"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/PersonTests.swift"
+                  timestampString = "482153210.558411"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.FamilyTests.init (SimpleDomainModelTests.FamilyTests.Type)(selector : ObjectiveC.Selector) -&gt; SimpleDomainModelTests.FamilyTests"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/PersonTests.swift"
+                  timestampString = "482153210.558693"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.FamilyTests.init (SimpleDomainModelTests.FamilyTests.Type)() -&gt; SimpleDomainModelTests.FamilyTests"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/PersonTests.swift"
+                  timestampString = "482153210.558861"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModel/main.swift"
+            timestampString = "482153279.270571"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "convert(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/PersonTests.swift"
+            timestampString = "482153577.613039"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "FamilyTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/PersonTests.swift"
+            timestampString = "482153591.931784"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "testFamilyWithKids()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.FamilyTests.testFamilyWithKids (SimpleDomainModelTests.FamilyTests)() -&gt; ()"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/PersonTests.swift"
+                  timestampString = "482153726.519913"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1222">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.FamilyTests.(testFamilyWithKids (SimpleDomainModelTests.FamilyTests) -&gt; () -&gt; ()).(implicit closure #1)"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModelTests/PersonTests.swift"
+                  timestampString = "482153726.520242"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/PersonTests.swift"
+            timestampString = "482153785.112214"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "testFamilyWithKids()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModel/main.swift"
+            timestampString = "482154018.271795"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "convert(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModel/main.swift"
+            timestampString = "482154022.2823"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "convert(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/SimpleDomainModelTests.swift"
+            timestampString = "482154029.789982"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "SimpleDomainModelTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/SimpleDomainModelTests.swift"
+            timestampString = "482154030.774705"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "SimpleDomainModelTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/SimpleDomainModelTests.swift"
+            timestampString = "482154032.1748"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "SimpleDomainModelTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/MoneyTests.swift"
+            timestampString = "482154066.118156"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "MoneyTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
