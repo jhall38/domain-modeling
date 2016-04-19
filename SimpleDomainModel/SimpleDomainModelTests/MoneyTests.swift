@@ -92,5 +92,13 @@ class MoneyTests: XCTestCase {
     XCTAssert(total.amount == 10)
     XCTAssert(total.currency == "GBP")
   }
+    
+
+    
+
+    
+
+    
+
 }
 

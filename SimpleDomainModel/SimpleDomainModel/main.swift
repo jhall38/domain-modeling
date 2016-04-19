@@ -20,13 +20,38 @@ public class TestMe {
   }
 }
 
+
+////////////////////////////////////
+// Extentions
+
+extension Double {
+    var USD: Money { return Money(amount: Int(self), currency: "USD")}
+    var EUR: Money { return Money(amount: Int(self), currency: "USD")}
+    var GBP: Money { return Money(amount: Int(self), currency: "USD")}
+    var YEN: Money { return Money(amount: Int(self), currency: "USD")}
+}
+
+////////////////////////////////////
+// Protocols
+
+protocol CustomStringConvertible {
+    var description : String { get }
+}
+
+protocol Mathematics{
+    func add (to: Self) -> Self
+    func subtract(from: Self) -> Self
+}
+
+
 ////////////////////////////////////
 // Money
 //
-public struct Money {
+public struct Money : CustomStringConvertible, Mathematics {
   public var amount : Int
   public var currency : String
-  
+  public var description : String { return "\(currency)\(Double(amount))" }
+    
   public func convert(to: String) -> Money {
     //1 USD = .5 GBP (2 USD = 1 GBP) 1 USD = 1.5 EUR (2 USD = 3 EUR) 1 USD = 1.25 CAN (4 USD = 5 CAN)
     switch(to){
@@ -96,16 +121,24 @@ public struct Money {
     return Money(amount: convert(to.currency).amount + to.amount, currency: to.currency)
   }
   public func subtract(from: Money) -> Money {
-    return Money(amount: convert(from.currency).amount + from.amount, currency: from.currency)
+    return Money(amount: convert(from.currency).amount - from.amount, currency: from.currency)
   }
 }
 
 ////////////////////////////////////
 // Job
 //
-public class Job {
+public class Job : CustomStringConvertible {
   public var title : String
   public var type : JobType
+  public var description : String {
+        switch(type){
+            case .Salary(let sal):
+                return "title: \(title) Salary: \(sal)"
+            case .Hourly(let wage):
+                return "title: \(title) Wage: \(wage) per hour"
+        }
+    }
     
   public enum JobType {
     case Hourly(Double)
@@ -139,13 +172,14 @@ public class Job {
 ////////////////////////////////////
 // Person
 //
-public class Person {
+public class Person : CustomStringConvertible {
   public var firstName : String = ""
   public var lastName : String = ""
   public var age : Int = 0
   public var jobTitle : String = ""
   public var jobType : Job.JobType = .Salary(0)
   public var theSpouse : Person? //the actual person that is stored that property invokes
+  public var description : String { return toString() }
 
   public var job : Job? {
     get {
@@ -190,8 +224,10 @@ public class Person {
 ////////////////////////////////////
 // Family
 //
-public class Family {
+public class Family : CustomStringConvertible{
   private var members : [Person] = []
+  public var description : String { return "Members: \(members))" }
+
 
   public init(spouse1: Person, spouse2: Person) {
     if(spouse1.spouse == nil && spouse2.spouse == nil){

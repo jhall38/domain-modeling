@@ -152,7 +152,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SimpleDomainModelTests/MoneyTests.swift"
-            timestampString = "482149999.340908"
+            timestampString = "482800836.919047"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "93"
@@ -264,11 +264,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SimpleDomainModel/main.swift"
-            timestampString = "482152528.910556"
+            timestampString = "482800074.540869"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "150"
-            endingLineNumber = "150"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
             landmarkName = "Person"
             landmarkType = "3">
          </BreakpointContent>
@@ -280,11 +280,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SimpleDomainModel/main.swift"
-            timestampString = "482152528.910556"
+            timestampString = "482800074.540869"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "153"
-            endingLineNumber = "153"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
             landmarkName = "Person"
             landmarkType = "3">
          </BreakpointContent>
@@ -454,11 +454,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SimpleDomainModel/main.swift"
-            timestampString = "482153279.270571"
+            timestampString = "482800074.540869"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "84"
-            endingLineNumber = "84"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
             landmarkName = "convert(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -550,11 +550,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SimpleDomainModel/main.swift"
-            timestampString = "482154018.271795"
+            timestampString = "482800074.540869"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
             landmarkName = "convert(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -566,11 +566,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SimpleDomainModel/main.swift"
-            timestampString = "482154022.2823"
+            timestampString = "482800074.540869"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
             landmarkName = "convert(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -637,6 +637,100 @@
             endingLineNumber = "17"
             landmarkName = "MoneyTests"
             landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModel/main.swift"
+            timestampString = "482554796.952685"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "Money"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModel/main.swift"
+            timestampString = "482570545.52317"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleDomainModelTests.Money.description.getter : Swift.String"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/domain-modeling-v2/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModel/main.swift"
+                  timestampString = "482800956.147428"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "protocol witness for SimpleDomainModelTests.CustomStringConvertible.description.getter : Swift.String in conformance SimpleDomainModelTests.Money : SimpleDomainModelTests.CustomStringConvertible in SimpleDomainModelTests"
+                  moduleName = "SimpleDomainModelTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhall38/info498D/domain-modeling-v2/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModel/main.swift"
+                  timestampString = "482800956.147748"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/ProtocolTests.swift"
+            timestampString = "482800834.376458"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ProtocolTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleDomainModelTests/ProtocolTests.swift"
+            timestampString = "482801361.541899"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "testExtendDouble()"
+            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
